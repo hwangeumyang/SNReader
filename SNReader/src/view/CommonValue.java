@@ -5,7 +5,7 @@ public class CommonValue {
 	private final static Dimension mainFrame = new Dimension(300, 500);
 	
 	
-	public static Dimension getMainFrame() {
+	public static Dimension getMainFrameSize() {
 		return mainFrame;
 	}
 
