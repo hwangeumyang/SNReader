@@ -1,8 +1,8 @@
 package view;
 
 /*
- * ÀÌ ÀÎÅÍÆäÀÌ½ºÀÇ Á¸Àçµµ, ÀÌ ÀÎÅÍÆäÀÌ½º¸¦ ±¸¼ºÇÏ´Â µ¥ ¾´ Á¦³Ê¸¯ÀÇ °³³äµµ »ç½Ç ÇÊ¿ä´Â ¾ø´Ù°í »ý°¢ÇÏÁö¸¸,
- * ÇÑ ¹ø ½áº¸ÀÚ´Â ´À³¦À¸·Î »ç¿ëÇÔ.
+ * ì´ ì¸í„°íŽ˜ì´ìŠ¤ì˜ ì¡´ìž¬ë„, ì´ ì¸í„°íŽ˜ì´ìŠ¤ë¥¼ êµ¬ì„±í•˜ëŠ” ë° ì“´ ì œë„ˆë¦­ì˜ ê°œë…ë„ ì‚¬ì‹¤ í•„ìš”ëŠ” ì—†ë‹¤ê³  ìƒê°í•˜ì§€ë§Œ,
+ * í•œ ë²ˆ ì¨ë³´ìžëŠ” ëŠë‚Œìœ¼ë¡œ ì‚¬ìš©í•¨.
  */
 
 public interface ButtonMaker<T extends java.awt.Component> {

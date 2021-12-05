@@ -53,7 +53,7 @@ public class VerticalList extends JScrollPane {
 		}
 		
 		private void calcRecommendedBtn(){
-			//½ÇÁ¦·Î´Â ÇÁ·¹ÀÓ »óÀÇ Á¦¸ñÁÙÀÌ³ª º¸´õ ¶§¹®¿¡ 10°³°¡ º¸¿©ÁöÁö´Â ¾Ê´Â´Ù.
+			//ì‹¤ì œë¡œëŠ” í”„ë ˆì„ ìƒì˜ ì œëª©ì¤„ì´ë‚˜ ë³´ë” ë•Œë¬¸ì— 10ê°œê°€ ë³´ì—¬ì§€ì§€ëŠ” ì•ŠëŠ”ë‹¤.
 //			recommendedBtn = new Dimension(parentPreferredSize.width - scrollBarWidth, parentPreferredSize.height/10);
 			recommendedBtn = new Dimension(0, parentPreferredSize.height/10);
 			
